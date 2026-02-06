@@ -38,16 +38,7 @@ python main.py
 Configuration files are located in the `config/` directory. Modify `config.yaml` to set your parameters accordingly.
 
 ## Project Structure
-```
-LangChain_SubAgents/
-├── main.py
-├── config/
-│   └── config.yaml
-├── agents/
-│   └── agent1.py
-├── requirements.txt
-└── README.md
-```
+
 
 ## Contributing
 We welcome contributions! To contribute:
